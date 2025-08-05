@@ -31,7 +31,7 @@ This project was built as part of the [The Complete 2024 Web Development Bootcam
 
 ## 🎮 How to Use
 
-- Visit the live site: [https://your-username.github.io/digiDrums](https://your-username.github.io/digiDrums)
+- Visit the live site: [digiDrums](https://rakmo5.github.io/digiDrums/)
 - Press any of these keys on your keyboard: `w`, `a`, `s`, `d`, `j`, `k`, `l`
 - Or tap the corresponding buttons on the screen
 
